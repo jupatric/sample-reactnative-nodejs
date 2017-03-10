@@ -20,7 +20,7 @@ export const fetchProductSuccess = (product) => ({
 });
 
 export const productError = (error) => ({
-  type: constants.PRODUCT_ERRROR,
+  type: constants.PRODUCT_ERROR,
   payload : {
       error
   }
