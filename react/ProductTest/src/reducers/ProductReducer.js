@@ -54,7 +54,7 @@ export default reducer = typeToReducer({
     })
   }
 }, INITIAL_STATE)
-
+                                          
 
 // export default (state = INITIAL_STATE, action) => {
 //   switch (action.type) {
